@@ -8,10 +8,10 @@ _Chris Rudnicky_
 ---
 ## Table of contents
 
-**[Installation Instructions](#installation-instructions)**<br>
 **[Description](#description)**<br>
 **[Planned Additions](#planned-additions)**<br>
 **[Usage Instructions](#usage-instructions)**<br>
+**[Installation Instructions](#installation-instructions)**<br>
 **[Application Testing](#application-testing)**<br>
 **[Known Errors](#known-errors)**<br>
 **[Technologies Used](#technologies-used)**<br>
@@ -77,6 +77,7 @@ HTML, CSS, Json, C#.
 
 ## Support and contact details
 Scott Bergler :: commandinghands@gmail.com
+Chris Rudnicky :: 68thandMaine@gmail.com
 
 ---
 
@@ -88,4 +89,4 @@ Scott Bergler :: commandinghands@gmail.com
 
 Licensed under the MIT license.
 
-Copyright (c) 2018 ** Scott Bergler **
+Copyright (c) 2018 ** Scott Bergler Chris Rudnicky **
